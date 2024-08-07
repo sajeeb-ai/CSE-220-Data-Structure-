@@ -1,2 +1,2 @@
 # CSE-220
-Data Structure
+Data Structure course lab materials
